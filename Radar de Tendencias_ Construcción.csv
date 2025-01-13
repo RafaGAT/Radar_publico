@@ -1,0 +1,50 @@
+COMPONENTES DE RADAR DE TENDENCIAS;;;;;
+;;;;;
+FUENTE;COMPONENTES;INICIATIVAS;DESCRIPCIÓN;ALCANCE;CANTIDAD
+GARTNER 2024;Revolución de la productividad;Aprendizaje autosupervisado;es un enfoque del machine learning (ML) en el que se generan datos etiquetados a partir de los propios datos, sin depender de datos de resultados históricos ni de supervisores humanos que proporcionen etiquetas o comentarios.;De 3 a 6 años;Alta
+;;Transformadores de visión por ordenador;son redes neuronales que calculan las relaciones entre píxeles en secciones de imágenes con el fin de mejorar la clasificación, el reconocimiento de objetos y la generación de imágenes.;De 3 a 6 años;Alta
+;;UAV autónomos;son máquinas voladoras autónomas utilizadas principalmente para inspeccionar activos, aunque también están ganando popularidad para la entrega de pequeños paquetes.;De 1 a 3 años;Media
+;;Aplicaciones inteligentes;utilizan una o varias técnicas de IA para aprender de diversas fuentes de datos externas y alternativas.;De 1 a 3 años;Media
+;;Datos sintéticos creados por IA;se generan artificialmente en lugar de recopilarse de eventos del mundo real.;De 1 a 3 años;Baja
+;;Asistentes virtuales IA generativa;representan una nueva generación de asistentes que aprovechan los grandes modelos de lenguaje (LLM, por sus siglas en inglés) para mejorar su funcionalidad.;Actualidad;Alta
+;;IA Generativa;describe las tecnologías que pueden generar nuevas versiones derivadas de contenidos, estrategias, diseños y métodos al aprender de grandes repositorios de contenidos fuente originales.;Actualidad;Alta
+;Mundo Inteligente;Computación Espacial;es un entorno informático que combina objetos físicos y digitales en un marco de referencia compartido;De 6 a 8 años;Alta
+;;Avatares de la IA;son personajes virtuales con apariencia humana, creados mediante imágenes generadas por ordenador y diversas técnicas y aplicaciones de IA.;De 6 a 8 años;Media
+;;Espacios Inteligentes;son entornos físicos en los que los humanos y los sistemas de base tecnológica interactúan en unos ecosistemas cada vez más abiertos, conectados, coordinados e inteligentes.;De 3 a 6 años;Alta
+;;Gemelos Digitales;son réplicas de base tecnológica que generan una representación digital duplicada del estado de unidades o conjuntos de activos, procesos, personas u organizaciones (físicos o virtuales).;De 1 a 3 años;Alta
+;;IU multimodal;se refieren a modelos en los que el usuario y la máquina pueden interactuar de forma simultánea.;De 1 a 3 años;Alta
+;Facilitadores esenciales;Computación neuromórfica;es un enfoque de ingeniería en el que los componentes de un ordenador se diseñan para imitar las funciones cerebrales y del sistema nervioso humanos.;De 3 a 6 años;Media
+;;Tokenización;"es una representación criptográficamente protegida de valores o datos.
+";De 3 a 6 años;Alta
+;;Procesador cuántico;on chips que constan de qubits (o bits cuánticos), el equivalente de los bits de la computación clásica.;De 6 a 8 años;Muy Alta
+;;Web3;"es una nueva pila de tecnologías para el desarrollo de aplicaciones web descentralizadas que proporcionan arquitectura para la extensibilidad, la identidad descentralizada y la interoperabilidad entre cadenas.
+";De 3 a 6 años;Alta
+;;5G privada;se basa en la tecnología y el espectro del 3GPP para ofrecer conectividad, servicios optimizados y seguridad a las empresas.;De 1 a 3 años;Alta
+;;Base de datos vectorial escalable;proporcionan capacidad de búsqueda vectorial y se utilizan junto con los LLM para aplicar la capacidad del modelo a responder a las búsquedas con información personalizada o específica de una empresa o dominio.;De 3 a 6 años;Media
+;;Blockchain;"se refiere a un grupo de tecnologías centradas en la distribución entre profesionales, la descentralización, la inmutabilidad, el cifrado y la tokenización.
+";De 1 a 3 años;Media
+;;Edge computing de hiperescala;se refiere a una solución que se extiende desde la nube pública hasta el perímetro de la red, en una plataforma de nube distribuida, gestionada y controlada a través de un servicio de nube pública a gran escala.;De 1 a 3 años;Alta
+;;Chips de IA;son un tipo de dispositivo semiconductor optimizado para procesar redes neuronales profundas.;De 1 a 3 años;Media
+;;Grafos de conocimiento;son representaciones legibles por máquina que describen la relación entre datos heterogéneos a través de una red de nodos y enlaces.;Actualidad;Media
+;;Megaconstelaciones de satélites LEO; tienen el potencial de proporcionar comunicaciones globales y acceso a Internet con una latencia y velocidad comparables a la conectividad básica por cable.;De 1 a 3 años;Media
+;Privacidad y Transparencia;Análisis de comportamientos;se refiere a las capacidades de seguimiento de sesiones que supervisan las interacciones de los usuarios con un servicio protegido para construir modelos de confianza que permitan distinguir entre estafadores, usuarios de confianza y bots.;De 3 a 6 años;Baja
+;;Identidad descentralizada;o los sistemas asociados de identidad autosoberana (SSI, por sus siglas en inglés) tienen como objetivo abordar los retos de privacidad y transparencia que plantean los sistemas de identidad tradicionales.;De 3 a 6 años;Media
+;;Tecnologías de mejora de la privacidad;son un conjunto de enfoques sólidos que permiten tratar la información y, al mismo tiempo, proteger los datos personales subyacentes.;De 1 a 3 años;Media
+;;IA responsable;es un término que engloba muchos aspectos de la toma de decisiones empresariales y éticas correctas cuando una organización adopta la IA.;De 1 a 3 años;Alta
+;;IA centrada en personas;es un principio común de diseño en la IA que requiere que esta tecnología se beneficie continuamente de la contribución humana.;De 1 a 3 años;Media
+Tendencias Transporte Marítimo;Resiliencia en la cadena de suministro;Computación cuántica;;;
+;;Materias primas alternativas;;;
+;;Almacenes bajo demanda;;;
+;;Distributed Ledger Technology;;;
+;;Economía de los datos;;;
+;;Ciberseguridad;;;
+;;Drones;;;
+;;Logística Circular;;;
+;;Externalización nearshoring;;;
+;;Reserva digital de carga;;;
+;;Carencia de infraestructuras;;;
+;;Logística omnicanal;;;
+;;Descentralización portuaria;;;
+;;Trazabilidad de lacadena de suministros;;;
+;;Economía de subcontratración;;;
+;;Flota Gris;;;
