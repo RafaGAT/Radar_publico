@@ -1,5 +1,5 @@
-name;ring;quadrant;isNew;status;description
-Computacion Espacial;Hold;Techniques;TRUE;New;"""En un entorno informático que combina objetos físicos y digitales en un marco de referencia compartido"""
-Base de datos vectorial escalable;Assess;Platforms;TRUE;New;"""Proporcionan capacidad de búsqueda vectorial y se utilizan junto con los LLM para aplicar la capacidad del modelo a responder a las búsquedas con información personalizada o específica de una empresa o dominio."""
-Aplicaciones Inteligentes;Trial;Tools;TRUE;New;"""Utilizan una o varias técnicas de IA para aprender de diversas fuentes de datos externas y alternativas."""
-Asistentes virtuales IA generativa;Adopt;languages-and-frameworks;TRUE;New;"""Representan una nueva generación de asistentes que aprovechan los grandes modelos de lenguaje (LLM, por sus siglas en inglés) para mejorar su funcionalidad."""
+name,ring,quadrant,isNew,description
+Computacion Espacial,Hold,Techniques,TRUE,En un entorno informÃ¡tico que combina objetos fÃ­sicos y digitales en un marco de referencia compartido
+Base de datos vectorial escalable,Assess,Platforms,TRUE,Proporcionan capacidad de bÃºsqueda vectorial y se utilizan junto con los LLM para aplicar la capacidad del modelo a responder a las bÃºsquedas con informaciÃ³n personalizada o especÃ­fica de una empresa o dominio.
+Aplicaciones Inteligentes,Trial,Tools,TRUE,Utilizan una o varias tÃ©cnicas de IA para aprender de diversas fuentes de datos externas y alternativas.
+Asistentes virtuales IA generativa,Adopt,languages-and-frameworks,TRUE,Representan una nueva generaciÃ³n de asistentes que aprovechan los grandes modelos de lenguaje (LLM, por sus siglas en inglÃ©s) para mejorar su funcionalidad.
